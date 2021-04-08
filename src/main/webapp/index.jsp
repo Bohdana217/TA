@@ -11,7 +11,15 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>TA Start</title>
     </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
+
+    <h1>My TA labs</h1>
+    <p>This is a paragraph</p>
+
+    <form action="lab1.jsp">
+      
+        <input type="submit" value="Lab1">
+    </form> 
+    
+    <p><a href="lab1.jsp">Alternative varian</a></p>
+
 </html>
